@@ -20,6 +20,29 @@
   background: rgba(0, 0, 0, 0.4);
 }
 
+.proper-row {
+  width: 95%;
+}
+
+.profile {
+  /*width: 500px;*/
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.4);
+  margin-bottom: 25px;
+}
+.profile .pfp {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.profile .pfp img {
+  width: 75px;
+}
+.profile .pfp h1 {
+  font-size: 30px;
+}
+
 @media only screen and (max-width: 475px) {
   .nav-collapse .nav-options {
     display: none;

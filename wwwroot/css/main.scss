@@ -22,6 +22,30 @@ main {
     background: rgba(0, 0 ,0, 0.4);
 }
 
+.proper-row {
+    width: 95%;
+}
+
+.profile {
+    .pfp {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-bottom: 5px;
+
+        img {
+            width: 75px;
+        }
+        h1 {
+            font-size: 30px;
+        }
+    }
+    /*width: 500px;*/
+    padding: 10px;
+    background: rgba(0, 0,0, 0.4);
+    margin-bottom: 25px;
+}
+
 
 .nav-collapse {
 
