@@ -8,6 +8,20 @@
   margin: 75px 0 0 0;
 }
 
+.loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10vh;
+  font-family: "Mattehek";
+}
+.loading h1 {
+  font-size: clamp(4rem, 10vw, 10rem);
+}
+.loading p {
+  font-size: clamp(2rem, 5vw, 4rem);
+}
+
 .bg-red {
   background-color: red;
 }
@@ -38,9 +52,12 @@
 }
 .profile .pfp img {
   width: 75px;
+  border-radius: 50%;
 }
 .profile .pfp h1 {
-  font-size: 30px;
+  margin-left: 10px;
+  margin-bottom: 0;
+  font-size: 25px;
 }
 
 @media only screen and (max-width: 475px) {
