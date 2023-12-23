@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Nightwish.MainWebsite",
   "resources": {
-    "hash": "sha256-ezcLGMTdj+wPA7x0dgkeaD4S7uAiUEIYpa/ZcrAspPI=",
+    "hash": "sha256-py6aAhCMTGOZHOn5kAZbm65hpX4E3xWaOiYaC/cIUTE=",
     "runtime": {
       "dotnet.6.0.25.0ibdzzkyii.js": "sha256-1jUGCCSGH9JWhkqbHdQk8JBjBI8K/VC63En5zlypVps=",
       "dotnet.timezones.blat": "sha256-KsGUR9nqtXb3Hy6IrNlnc1HoSS+AFlsXTX9rq4oChtA=",
@@ -25,7 +25,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-QRewYnpJ6vl8gGMXBS2gN++/sQ9hKcuv+rhy586Bbxs=",
       "Microsoft.JSInterop.dll": "sha256-RahcnzHXED0M7CJI+zLOzx7UVjA5AHbfKvXORj+3/28=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-gt4vpfZtHpVewI0vTa6xOzGRf+vwJIkPY48RUqEGvXs=",
-      "Nightwish.MainWebsite.dll": "sha256-8Tg64gkjVxQvDdB3bcpE7xBMMwDBrqYg9T54kY2CRso=",
+      "Nightwish.MainWebsite.dll": "sha256-JxuxtVPFH6vou8nPRNFXzrCcXsh+raiJGNmqW27LEoc=",
       "System.Collections.Concurrent.dll": "sha256-MFcsT6d3hfBO/eHFZ99sIrEo3JzkW5D2HqwbTthfSPU=",
       "System.Collections.dll": "sha256-3G8uDvhIVNYbGZDI6zSZfGNRGsI1GLm5XsGIJqaPgE0=",
       "System.ComponentModel.dll": "sha256-6QTnLm+OI7YW6wzzRDtP7atBiGTgd44/xZlhvVN/7gc=",
